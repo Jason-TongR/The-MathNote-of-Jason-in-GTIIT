@@ -9,9 +9,9 @@ All notes are in the "Releases" page ! Welcome !
 
 Available notes:
 
------------------------------------------------------------------------------------------------------
+
 Course name                                   |  Professor
------------------------------------------------------------------------------------------------------
+                                              |
 1.Pre Academic Math Course                    |  Rela
 2.Set Theory                                  |  Pablo
 3.Infinitesimal Calculus 1                    |  Leandro
