@@ -9,9 +9,9 @@ All notes are in the "Releases" page ! Welcome !
 
 Available notes:
 
-
+-----------------------------------------------------------------------------------------------------
 Course name                                   |  Professor
-                                              |
+-----------------------------------------------------------------------------------------------------
 1.Pre Academic Math Course                    |  Rela
 2.Set Theory                                  |  Pablo
 3.Infinitesimal Calculus 1                    |  Leandro
@@ -21,3 +21,9 @@ Course name                                   |  Professor
 7.Basic Consept In MCS                        |  Diego
 8.Function Theory 1                           |  Marco
 9.Combinatorics                               |  Maksim version and Richar version
+
+
+
+
+
+
