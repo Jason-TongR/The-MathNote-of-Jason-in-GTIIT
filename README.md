@@ -12,7 +12,6 @@ Uptill now , I have uploaded all the Math notes until 2025-2026 Winter Semester 
 
 Now Available notes:
 
------------------------------------------------------------------------------------------------------
 Course name                                   |  Professor
 ----------------------------------------------------------------------------------------------------- 
 1.Pre Academic Math Course                    |  Rela
