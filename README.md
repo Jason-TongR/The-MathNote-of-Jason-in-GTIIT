@@ -10,7 +10,7 @@ Uptill now , I have uploaded all the Math notes until 2025-2026 Winter Semester 
  
 ----------------------------------------------------------------------------------------------------- 
 
-Now Available notes:
+Available notes:
 
 Course name                                   |  Professor
 ----------------------------------------------------------------------------------------------------- 
