@@ -1,4 +1,4 @@
-![Status](https://img.shields.io/badge/status-under_development-yellow)
+**![Status](https://img.shields.io/badge/status-under_development-yellow)**
 # The-MathNote-of-Jason-in-GTIIT
 This is the all math classes of notes in GTIIT(Homeworks included) that taken by Jason
 
@@ -11,7 +11,7 @@ Uptill now , I have uploaded all the Math notes until 2025-2026 Winter Semester 
  
 ----------------------------------------------------------------------------------------------------- 
 
-AVAILABLE NOTES:
+**AVAILABLE NOTES:**
 
 Course name                                   |  Professor
 ----------------------------------------------------------------------------------------------------- 
