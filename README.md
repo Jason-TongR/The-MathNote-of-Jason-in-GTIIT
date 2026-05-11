@@ -1,4 +1,4 @@
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Status](https://img.shields.io/badge/status-under_development-yellow)
 # The-MathNote-of-Jason-in-GTIIT
 This is the all math classes of notes in GTIIT(Homeworks included) that taken by Jason
 
