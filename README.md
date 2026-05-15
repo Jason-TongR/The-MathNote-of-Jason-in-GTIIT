@@ -1,6 +1,6 @@
 **![Status](https://img.shields.io/badge/status-under_development-yellow)**
 # The MathNote of Jason in GTIIT
-This is the all math classes of notes in GTIIT(Homeworks included) that taken by Jason
+This is the all math classes of notes in GTIIT(Homeworks included) that taken by Jason !
 
 
 All Notes and Homeworks are in the "Releases" page ! Welcome !
