@@ -8,6 +8,9 @@ All Notes and Homeworks are in the "Releases" page ! Welcome !
 
 Uptill now , I have uploaded all the Math notes until 2025-2026 Winter Semester ！
 
+
+Remark : Notes concludes Turtoial and Lecture notes.
+
  
 ----------------------------------------------------------------------------------------------------- 
 
