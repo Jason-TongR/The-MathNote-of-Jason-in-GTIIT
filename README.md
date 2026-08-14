@@ -19,28 +19,17 @@ Remark : Notes concludes Turtoial and Lecture notes.
 |Course name |  Professor |
 |:---|:---|
 |Pre Academic Math Course |  Rela | 
-|Set Theory   |    |  Pablo|
- 
-|Infinitesimal Calculus 1     |Leandro|
- 
+|Set Theory|Pablo|
+|Infinitesimal Calculus 1|Leandro|
 |Infinitesimal Calculus 2                    |  Gaston version and Marco version|
- 
 |Algebra A                                   |  Paulo version and Maria version|
-
 |Algebra B                                   |  Nikita|
- 
 |Basic Consept In MCS                        |  Diego|
-
 |Function Theory 1                           |  Marco|
-
 |Combinatorics                               |  Maksim version and Richar version|
-
 |Introduction to Groups                     |  Andrea S|
-
 |Infinitesimal Calculus 3                   |  Ilya|
-
 |Function Theory 2                          |  Antti|
-
 
 
 
