@@ -14,7 +14,7 @@ Remark : Notes concludes Turtoial and Lecture notes.
  
 ----------------------------------------------------------------------------------------------------- 
 
-## **AVAILABLE NOTES:**
+## AVAILABLE NOTES:
 
 |Course name |  Professor | Link|
 |:---|:---|:----|
