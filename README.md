@@ -16,32 +16,31 @@ Remark : Notes concludes Turtoial and Lecture notes.
 
 **AVAILABLE NOTES:**
 
-Course name                                   |  Professor
------------------------------------------------------------------------------------------------------ 
-1.Pre Academic Math Course                    |  Rela
------------------------------------------------------------------------------------------------------ 
-2.Set Theory                                  |  Pablo
------------------------------------------------------------------------------------------------------ 
-3.Infinitesimal Calculus 1                    |  Leandro
------------------------------------------------------------------------------------------------------ 
-4.Infinitesimal Calculus 2                    |  Gaston version and Marco version
------------------------------------------------------------------------------------------------------ 
-5.Algebra A                                   |  Paulo version and Maria version
------------------------------------------------------------------------------------------------------ 
-6.Algebra B                                   |  Nikita
------------------------------------------------------------------------------------------------------ 
-7.Basic Consept In MCS                        |  Diego
------------------------------------------------------------------------------------------------------ 
-8.Function Theory 1                           |  Marco
------------------------------------------------------------------------------------------------------ 
-9.Combinatorics                               |  Maksim version and Richar version
------------------------------------------------------------------------------------------------------ 
-10.Introduction to Groups                     |  Andrea S
------------------------------------------------------------------------------------------------------
-11.Infinitesimal Calculus 3                   |  Ilya
------------------------------------------------------------------------------------------------------
-12.Function Theory 2                          |  Antti
------------------------------------------------------------------------------------------------------
+|Course name |  Professor |
+|:---|:---|
+|Pre Academic Math Course |  Rela | 
+|Set Theory   |    |  Pablo|
+ 
+|Infinitesimal Calculus 1     |Leandro|
+ 
+|Infinitesimal Calculus 2                    |  Gaston version and Marco version|
+ 
+|Algebra A                                   |  Paulo version and Maria version|
+
+|Algebra B                                   |  Nikita|
+ 
+|Basic Consept In MCS                        |  Diego|
+
+|Function Theory 1                           |  Marco|
+
+|Combinatorics                               |  Maksim version and Richar version|
+
+|Introduction to Groups                     |  Andrea S|
+
+|Infinitesimal Calculus 3                   |  Ilya|
+
+|Function Theory 2                          |  Antti|
+
 
 
 
