@@ -30,6 +30,7 @@ Remark : Notes concludes Turtoial and Lecture notes.
 |Introduction to Groups|  Andrea S|[Click Me !](https://github.com/Jason-TongR/The-MathNote-of-Jason-in-GTIIT/releases/tag/Introduction-to-Groups)|
 |Infinitesimal Calculus 3 |  Ilya|[Click Me !](https://github.com/Jason-TongR/The-MathNote-of-Jason-in-GTIIT/releases/tag/Infinitesimal-Calculus-3)|
 |Function Theory 2 |  Antti|[Click Me !](https://github.com/Jason-TongR/The-MathNote-of-Jason-in-GTIIT/releases/tag/Function-Theory-2)|
+|Ordinary differential equation-H| Ilya |[Click Me !](https://github.com/Jason-TongR/The-MathNote-of-Jason-in-GTIIT/releases/tag/Ordinary-Differential-Equation-H)|
 
 
 
