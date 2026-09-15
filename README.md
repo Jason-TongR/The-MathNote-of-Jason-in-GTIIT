@@ -1,16 +1,14 @@
 **![Status](https://img.shields.io/badge/status-under_development-yellow)**
 # The MathNote of Jason in GTIIT
-This is the all math classes of notes in GTIIT(Homeworks included) that taken by Jason !
+This is the all math classes of notes in GTIIT(Homeworks are included except for ODE-H) that taken by Jason !
 
 
-All Notes and Homeworks are in the "Releases" page ! Welcome !
+>[!Important]
+>All Notes and Homeworks are in the "Releases" page ! Welcome !
 
 
-Uptill now , I have uploaded all the Math notes until 2025-2026 Winter Semester ！
-
-
-Remark : Notes concludes Turtoial and Lecture notes.
-
+>[!Note]
+>All math notes concludes Turtoial and Lecture notes.
  
 ----------------------------------------------------------------------------------------------------- 
 
